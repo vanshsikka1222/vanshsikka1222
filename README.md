@@ -1,35 +1,31 @@
-<h1 align="center">Hi 👋, I'm Vansh Sikka</h1>
-<h3 align="center">I am an energetic and enthusiastic college student pursuing a B.Tech in Computer Science Engineering and Technology. Ever since writing my first code in JAVA and experiencing the power of software to solve practical problems, I have been deeply passionate about software engineering, a never-ending puzzle that I am driven to solve.</h3>
-<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+- 👋 Hi, I’m @vanshsikka1222
+- 👀 I’m interested in UIUX Designing and Web Development Domains
+- 🌱 I’m currently learning MERN Stack Development
+- 😎 Also I consistently practice DSA in Java and am steadily mastering..!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshsikka1222&label=Profile%20views&color=0e75b6&style=flat" alt="vanshsikka1222" /> </p>
 
- - 🔭 I’m currently working on **my Web Development Skills**
+Greetings,
+I am an energetic and enthusiastic college student pursuing a B.Tech in Computer Science Engineering and Technology. Ever since writing my first code in JAVA and experiencing the power of software to solve practical problems, I have been deeply passionate about software engineering, a never-ending puzzle that I am driven to solve.
 
- - 🌱 I’m currently learning **I’m currently learning MERN Full Stack Web Development**
+- My Passion for UI/UX Design:
+As a UI/UX designer, I have been immersed in the world of user interface design and user experience for over a year now, and I absolutely love it! For me, UI design is all about creating compelling user experiences. I strive to make products and services not only usable but also enjoyable and accessible. My approach involves designing the entire process of acquiring and integrating the product, incorporating aspects of branding, usability, and function.
 
- - 👨‍💻 I’m interested in **UIUX Designing and Web Development**
+- Professional Skills:
+My skill set includes expertise in JAVA, as well as UIUX design and Graphic design. I am also a passionate teacher and an electric technician.
 
- - 👨‍💻 All of my UIUX Designing projects are available at (PORTFOLIO) [https://vanshsikka.notion.site/vanshsikka/Hi-I-m-Vansh-4a39f527af8a4e23b1ae605530b4d043](https://vanshsikka.notion.site/vanshsikka/Hi-I-m-Vansh-4a39f527af8a4e23b1ae605530b4d043)
+- Curiosity and Continuous Learning:
+Engineering's ever-evolving nature and the constant demand for new skills perfectly align with my naturally curious and analytical mind. I am always eager to explore new horizons and learn more.
 
- - 📝 I maintain an Instagram account where I share content related to both on-campus and off-campus job placements, with a particular emphasis on topics such as Data Structures and Algorithms in JAVA, as well as the Aptitude section. Additionally, I cover a variety of other subjects. Feel free to check out my handle. [https://instagram.com/campus_placement_prep?igshid=MzRlODBiNWFlZA==](https://instagram.com/campus_placement_prep?igshid=MzRlODBiNWFlZA==)
+- Interests and Hobbies:
+During my free time, I find solace in exploring spirituality. Additionally, I love meeting new people, and you can often find me engaging in conversations over a cup of coffee.
 
- - 📫 How to reach me **vanshsikka150@gmail.com**
+In conclusion, I am deeply committed to using technology to solve real-world problems and creating outstanding user experiences through UI/UX design. With an insatiable thirst for knowledge and a diverse skill set, I am ready to embrace the challenges and opportunities that lie ahead in the world of engineering and design.
+Thank you for taking the time to get to know me.
 
- - 📄 Know about my experiences (RESUME) [https://drive.google.com/file/d/1AM0XlqCrDUTfR9NL_-bunMeebyWScBTj/view?usp=drive_link](https://drive.google.com/file/d/1AM0XlqCrDUTfR9NL_-bunMeebyWScBTj/view?usp=drive_link)
+Best regards,
+Vansh Sikka
 
- - ⚡ Interests and Hobbies **During my free time, I find solace in exploring spirituality. Additionally, I love meeting new people, and you can often find me engaging in conversations over a cup of coffee.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-sikka-4597ab221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-sikka-4597ab221" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/campus_placement_prep?igshid=mzrlodbinwflza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/campus_placement_prep?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vanshsikka150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vanshsikka150" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vansh_sikka1222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vansh_sikka1222" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshsikka1222&show_icons=true&locale=en&layout=compact" alt="vanshsikka1222" /></p>
-
+<!---
+vanshsikka1222/vanshsikka1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
