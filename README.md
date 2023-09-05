@@ -24,7 +24,10 @@ Thank you for taking the time to get to know me.
 
 Best regards,
 Vansh Sikka
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vanshsikka1222/count.svg" />
+</p>
 <!---
 vanshsikka1222/vanshsikka1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
